@@ -1,2 +1,3 @@
-# python1
-a python based file
+a=5
+b =6
+print(a+b)
